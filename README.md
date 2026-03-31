@@ -5,7 +5,9 @@ Here is your content with **improved wording (clean, professional, and corrected
 # The Linux Scripts Project
 
 **Name of Student:** Karan Singh
+
 **Registration Number:** 24BAI10685
+
 **Software Chosen:** VLC Media Player
 
 ---
