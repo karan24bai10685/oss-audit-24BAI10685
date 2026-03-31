@@ -1,0 +1,6 @@
+My Open Source Manifesto
+Date: 22 March 2026
+--------------------------
+As a modern software developer, I rely daily on tools built by the community, such as vlc. To me, the core of the open-source philosophy boils down to a single concept: me using the thing I want without anyone forcing me on how and where to use.
+I believe that knowledge should not be locked behind proprietary walls. If I had the time and resources, I would build a I like working on things which I specically want that it should be available for free but it isn't personally I am working on an latex to word engine and release it under the GPL, ensuring that anyone in the world could use it, study it, and improve it.
+Code is collaborative. We stand on the shoulders of giants.
